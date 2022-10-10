@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ##  Arabic Tweet Sentiment Analysis
 
-![alt text]()
+![alt text](sentiment-analysis.jpeg)
 
 
 
